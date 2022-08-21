@@ -1,0 +1,9 @@
+<div class="body">
+  <ul class="podsjetnici">
+    <li *ngFor="let podsjetnik of podsjetnici">{{podsjetnik}}</li>
+  </ul>
+<form class="card" (ngSubmit)="addPodsjetnik()">
+  <input  name="podsjetniktext" [(ngModel)]="podsjetnikText">
+  <input type="submit" value="Dodaj podsjetnik">
+</form>
+</div>
