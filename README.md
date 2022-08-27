@@ -1,2 +1,2 @@
 # Zavrsni-rad
-JavaScript biblioteke implementacije 
+JavaScript biblioteke implementacije principa piši manje, napravi više
