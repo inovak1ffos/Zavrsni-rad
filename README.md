@@ -6,9 +6,9 @@ Repozitorij Završni rad uključuje sve primjere koji su sadržani u završnom r
 Služi za prikaz načina rada biblioteka i okvira i prikazuje primjer izrade podsjetnika u odnosu na čistu JavaScript. 
 
 ### Built With
-**[JavaScript]**
-JavaScript
-jQuery
-React
-Angular
-Vue.js
+
+- JavaScript
+- jQuery
+- React
+- Angular
+- Vue.js
