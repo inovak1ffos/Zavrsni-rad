@@ -1,6 +1,8 @@
 # Zavrsni-rad
 JavaScript biblioteke implementacije principa piši manje, napravi više
+<br>
 Filozofski fakultet Osijek
+<br>
 Preddiplomski studij Informatologije
 
 ## About 
